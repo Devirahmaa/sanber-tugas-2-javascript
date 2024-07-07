@@ -18,3 +18,4 @@ function calculateSquareRoot(x) {
 let input = 4;  // Ganti nilai ini dengan input yang diinginkan
 let result = calculateSquareRoot(input);
 console.log(result);  // Output
+
